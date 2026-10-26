@@ -18,19 +18,25 @@ Click the button below to download the latest version for Android:
 
 ## 🌟 What's New in v1.1.22
 
-### 1. Interactive Student Journey & Community Service
+### 1. Mentor & Volunteer End Class Time Picker
+- **Explicit End Time Dialog**: When concluding a live session on either the **Mentor Dashboard** or **Class Schedule**, the app explicitly asks: *"What time did the class end?"*.
+- **Interactive Time Picker**: Includes an interactive 12-hour/24-hour time selector defaulted to the current time, with one-tap time adjustment via native Android TimePickerDialog.
+- **Accurate Attendance Cutoff**: Prevents future timestamps and automatically records the exact end time on the server, calculating student participation logs accurately up to that cutoff.
+
+### 2. Dynamic Voice NLU Engine & Omnipresent Voice Controller
+- **Omnipresent Voice Mic**: A dedicated floating voice controller is accessible from any screen in the app when signed in.
+- **Dynamic Natural Language Understanding**: Speak naturally without needing rigid hardcoded keywords. The app dynamically parses questions like *"What is my attendance percentage?"*, *"When is today's lecture?"*, *"Do I have pending assignments?"*, and *"Schedule a class for VLSI"*.
+- **Multilingual Voice Responses**: Listens and speaks back in **English**, **Hindi (हिंदी)**, and **Telugu (తెలుగు)** using real-time Text-to-Speech (TTS).
+- **Auto-Navigation**: Voice commands can automatically navigate to the requested screen with instant voice confirmation.
+
+### 3. Mentor Voice Class Scheduling
+- Mentors can schedule, reschedule, and manage cohort sessions using hands-free voice commands.
+- Automatically directs mentors to the **Class Schedule** with Google Meet link generation.
+
+### 4. Interactive Student Journey & Community Service
 - **Step 15 (Tree Plantation)**: Interactive card with a direct action button (`Open Community Service & Upload Plantation`) to view guidelines and upload plantation proof.
 - **Step 16 (Blood Donation & Helping Society)**: Direct link to submit social responsibility initiatives.
 - **Complete Journey Navigation**: Instant one-tap access to your **Cohort Timetable**, **Class Attendance**, **Course Assignments**, **Skills Training**, **Capstone Project**, and **Official Certificate**.
-
-### 2. Google Voice Assistant Integration
-- Control key app features using voice commands with Google Assistant.
-- Supports **English**, **Hindi (हिंदी)**, and **Telugu (తెలుగు)** with automatic voice feedback.
-- Ask for live attendance, timetable, and community service verification directly from your phone.
-
-### 3. Smart Notifications & Shortcuts
-- Quick launcher shortcuts: Long-press the SURE ProEd app icon on your home screen for quick access to Timetable, Attendance, and Community Service.
-- Tap notifications to open the relevant screen immediately.
 
 ---
 
