@@ -1,6 +1,6 @@
 # SURE ProEd Mobile App
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.1.22-brightgreen.svg)](https://github.com/Albertpradeep-007/SureTrust-App-Release/releases/download/v1.1.22/SURE_ProEd_v1.1.22_release.apk)
+[![Latest Release](https://img.shields.io/badge/Release-v1.1.24-brightgreen.svg)](https://github.com/Albertpradeep-007/SureTrust-App-Release/releases/download/v1.1.24/SURE_ProEd_v1.1.24_release.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-blue.svg)]()
 [![Organization](https://img.shields.io/badge/Organization-SURE%20Trust-orange.svg)](https://suretrustforruralyouth.com)
 
@@ -12,11 +12,11 @@ Welcome to the official application release repository for **SURE ProEd**, the c
 
 Click the button below to download the latest version for Android:
 
-### ➡️ [Download SURE ProEd v1.1.22 (APK)](https://github.com/Albertpradeep-007/SureTrust-App-Release/releases/download/v1.1.22/SURE_ProEd_v1.1.22_release.apk)
+### ➡️ [Download SURE ProEd v1.1.24 (APK)](https://github.com/Albertpradeep-007/SureTrust-App-Release/releases/download/v1.1.24/SURE_ProEd_v1.1.24_release.apk)
 
 ---
 
-## 🌟 What's New in v1.1.22
+## 🌟 What's New in v1.1.24
 
 ### 1. Mentor & Volunteer End Class Time Picker
 - **Explicit End Time Dialog**: When concluding a live session on either the **Mentor Dashboard** or **Class Schedule**, the app explicitly asks: *"What time did the class end?"*.
@@ -42,7 +42,7 @@ Click the button below to download the latest version for Android:
 
 ## 📱 How to Install
 
-1. Download **`SURE_ProEd_v1.1.22_release.apk`** using the link above.
+1. Download **`SURE_ProEd_v1.1.24_release.apk`** using the link above.
 2. Open the downloaded file from your browser downloads or file manager.
 3. If prompted, enable **"Allow from this source"** in Android Settings.
 4. Tap **Install** (or **Update**).
